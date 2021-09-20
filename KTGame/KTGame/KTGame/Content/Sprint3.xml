@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<level>
+  <entity type ="FloorBlock" xpos ="0" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="1" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="2" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="3" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="4" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="5" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="6" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="7" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="8" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="9" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="10" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="11" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="12" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="13" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="14" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="15" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="16" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="17" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="18" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="19" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="20" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="21" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="22" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="23" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="24" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="25" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="26" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="27" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="28" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="29" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="30" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="31" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="32" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="33" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="34" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="35" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="36" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="37" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="38" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="39" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="40" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="41" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="42" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="43" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="44" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="45" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="46" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="47" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="48" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="49" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="50" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="51" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="14"/>
+  <entity type ="FloorBlock" xpos ="1" ypos ="14"/>
+  <entity type ="FloorBlock" xpos ="2" ypos ="14"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="13"/>
+  <entity type ="FloorBlock" xpos ="1" ypos ="13"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="12"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="0"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="1"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="2"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="3"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="4"/>
+  <entity type ="UsedBlock" xpos ="6" ypos ="3"/>
+  <entity type ="UsedBlock" xpos ="6" ypos ="4"/>
+  <entity type ="StairBlock" xpos ="0" ypos ="5"/>
+  <entity type ="BrickCoin" xpos ="15" ypos ="5" coins ="10"/>
+  <entity type ="BrickCoin" xpos ="29" ypos ="9" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="30" ypos ="10" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="31" ypos ="10" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="32" ypos ="10" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="33" ypos ="10" coins ="1"/>
+  <entity type ="QBlockCoin" xpos ="34" ypos ="10" coins ="1"/>
+   <entity type ="BrickBlock" xpos ="35" ypos ="10" coins ="1"/>
+  <entity type ="QBlockMush" xpos ="36" ypos ="10" coins ="1"/>
+  <entity type ="BrickBlock" xpos ="37" ypos ="10" coins ="1"/>
+  <entity type ="BrickBlock" xpos ="38" ypos ="10" coins ="1"/>
+  <entity type ="BrickBlock" xpos ="39" ypos ="9" coins ="1"/>
+  <entity type ="QBlockFlower" xpos ="9" ypos ="5"/>
+  <entity type ="QBlockFlower" xpos ="23" ypos ="5"/>
+  <entity type ="QBlockMush" xpos ="20" ypos ="5"/>
+  <entity type ="QBlockCoin" xpos ="21" ypos ="5" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="15" ypos ="10" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="12" ypos ="10" coin ="1"/>
+  <entity type ="QBlockStar" xpos ="11" ypos ="10" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="16" ypos ="10" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="17" ypos ="10" coin ="1"/>
+  <entity type ="QBlockStar" xpos ="18" ypos ="10" coin ="1"/>
+  <entity type ="QBlockMush" xpos ="22" ypos ="5"/>
+  <entity type ="QBlockMush" xpos ="13" ypos ="10"/>
+  <entity type ="BrickBlock" xpos ="1" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="2" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="3" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="4" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="5" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="6" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="7" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="8" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="9" ypos ="5"/>
+  <entity type ="FloorBlock" xpos ="18" ypos ="8"/>
+  <entity type ="HiddenMush" xpos ="0" ypos ="8"/>
+  <entity type ="Goomba" xpos ="4" ypos ="14"/>
+  <entity type ="GKoopa" xpos ="4" ypos ="4"/>
+  <entity type ="RKoopa" xpos ="23" ypos ="3"/>
+  <entity type ="RKoopa" xpos ="23" ypos ="14"/>
+
+  <entity type ="RKoopa" xpos ="40" ypos ="14"/>
+  <entity type ="RKoopa" xpos ="34" ypos ="9"/>
+  <entity type ="GKoopa" xpos ="35" ypos ="9"/>
+
+  <entity type ="QBlockStar" xpos ="12" ypos ="5"/>
+  <entity type ="QBlockOneUp" xpos ="14" ypos ="10"/>
+</level>

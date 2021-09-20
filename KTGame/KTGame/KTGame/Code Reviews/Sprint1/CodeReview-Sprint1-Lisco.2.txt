@@ -1,0 +1,17 @@
+﻿Author of the code review : Josh Lisco
+Date of the code review : 9/25/18
+Sprint number : 1
+Name of the .cs file being reviewed : KeyboardController.cs
+Author of the .cs file being reviewed : Jerry Ding
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+	Overall, the code seems to work for the current Sprint, but I'm not sure about the implementation 
+	for how keys being held down seems to be detecting - I had trouble when I was testing where the key being held
+	triggered even when it was not. Additionally, having the entire list of the commands and then having to initialize them
+	looks somewhat messy - I'm wondering if there is a way we can clean that up somewhat. Maybe find some way to seperate the concerns
+	for command declaration and initialization somewhere else, rather than in the controller?
+	In fact, there is surely a better way to do that. The current implementation has up repeat the process in GamePadController.cs.
+	Maybe we can declare all that in some kind of class that we can pass into both controllers, rather than doing it seperately in both.
+	It'd help if we were to someday implement some other kind of Controller, since we could just re-use the object with the commands in it
+	rather than repeating code.
+	Additionally, the update method is too complex: Its way too long. We need a more efficient way to do it to reduce the complexity.

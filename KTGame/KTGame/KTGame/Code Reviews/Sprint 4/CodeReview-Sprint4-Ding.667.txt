@@ -1,0 +1,14 @@
+﻿Author of the code review : Jerry Ding
+Date of the code review : 
+Sprint number : 4
+Name of the .cs file being reviewed : MarioWorld.cs
+Author of the .cs file being reviewed : Adam Davis
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+
+		To be honest, I had a hard time understanding the reset blinking part of code. The code is simple and clear
+		but a bit hard to follow, maybe because there is no comment at all. I don't really get what functionality 
+		resetblink and resetdelay have. But it is clear that since we only have limited length of paraxlel, there is
+		only one reset position at (44*32+16, 12*32) when player reach X-coordinate of 44*32. But one problem is that 
+		there is no calls to change the limit of camera, so the camera would still move back if mario moves back. We
+		need to add this feature soon or later.

@@ -1,0 +1,950 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<level>
+  
+  <entity type ="FloorBlock" xpos ="0" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="1" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="2" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="3" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="4" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="5" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="6" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="7" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="8" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="9" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="10" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="11" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="12" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="13" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="14" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="15" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="16" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="17" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="18" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="19" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="20" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="21" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="22" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="23" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="24" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="25" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="26" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="27" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="28" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="29" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="30" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="31" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="32" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="33" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="34" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="35" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="36" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="37" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="38" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="39" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="40" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="41" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="42" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="43" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="44" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="45" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="46" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="47" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="48" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="49" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="50" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="51" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="2" ypos ="14"/>
+  <entity type ="WarpPipe" xpos ="0" ypos ="14" length ="1" xpos2 ="0" ypos2 ="46"  length2 ="2"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="0"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="1"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="2"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="3"/>
+  <entity type ="FloorBlock" xpos ="0" ypos ="4"/>
+
+  <entity type ="UsedBlock" xpos ="6" ypos ="4"/>
+  <entity type ="StairBlock" xpos ="0" ypos ="5"/>
+  <entity type ="BrickCoin" xpos ="15" ypos ="6" coins ="100"/>
+  <entity type ="BrickCoin" xpos ="32" ypos ="11" coins ="10"/>
+  <entity type ="BrickCoin" xpos ="33" ypos ="11" coins ="10"/>
+  <entity type ="QBlockCoin" xpos ="34" ypos ="11" coins ="10"/>
+  <entity type ="BrickBlock" xpos ="35" ypos ="11" coins ="10"/>
+  <entity type ="QBlockMush" xpos ="36" ypos ="11" coins ="1"/>
+  <entity type ="BrickBlock" xpos ="37" ypos ="11" coins ="10"/>
+  <entity type ="BrickBlock" xpos ="38" ypos ="11" coins ="10"/>
+
+  <entity type ="QBlockFlower" xpos ="9" ypos ="5"/>
+  <entity type ="QBlockFlower" xpos ="23" ypos ="5"/>
+  <entity type ="QBlockMush" xpos ="20" ypos ="5"/>
+  <entity type ="QBlockCoin" xpos ="21" ypos ="5" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="15" ypos ="10" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="12" ypos ="10" coin ="1"/>
+  <entity type ="QBlockStar" xpos ="11" ypos ="10" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="16" ypos ="10" coin ="1"/>
+  <entity type ="QBlockCoin" xpos ="17" ypos ="10" coin ="1"/>
+  <entity type ="QBlockStar" xpos ="18" ypos ="10" coin ="1"/>
+  <entity type ="QBlockMush" xpos ="22" ypos ="5"/>
+  <entity type ="QBlockMush" xpos ="13" ypos ="10"/>
+  <entity type ="BrickBlock" xpos ="1" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="2" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="3" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="4" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="5" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="6" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="7" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="8" ypos ="5"/>
+  <entity type ="StairBlock" xpos ="9" ypos ="5"/>
+  <entity type ="HiddenMush" xpos ="0" ypos ="8"/>
+  <entity type ="Goomba" xpos ="4" ypos ="14"/>
+  <entity type ="Lakitu" xpos ="7" ypos ="3"/>
+
+
+  <entity type ="BrickCoin" xpos ="33" ypos ="7" coins ="10"/>
+  <entity type ="BrickCoin" xpos ="34" ypos ="7" coins ="10"/>
+  <entity type ="BrickBlock" xpos ="35" ypos ="7" coins ="10"/>
+  <entity type ="BrickCoin" xpos ="36" ypos ="7" coins ="10"/>
+  <entity type ="BrickBlock" xpos ="37" ypos ="7" coins ="10"/>
+
+  <entity type ="HammerBro" xpos ="35" ypos ="9"/>
+  
+  
+  
+
+  <entity type ="GKoopa" xpos ="4" ypos ="4"/>
+  <entity type ="RKoopa" xpos ="23" ypos ="14"/>
+  
+  <entity type ="BrickBlock" xpos ="12" ypos ="6"/>
+  <entity type ="BrickBlock" xpos ="13" ypos ="6"/>
+  <entity type ="BrickBlock" xpos ="14" ypos ="6"/>
+  <entity type ="BrickBlock" xpos ="15" ypos ="6"/>
+  <entity type ="BrickBlock" xpos ="16" ypos ="6"/>
+  <entity type ="BrickBlock" xpos ="17" ypos ="6"/>
+  <entity type ="QBlockOneUp" xpos ="14" ypos ="10"/> <!--FirstHalf end-->
+  
+    <entity type ="PlantPipe" xpos ="46" ypos ="12" length ="2"/> <!--Pipes-->
+
+  
+  <entity type ="FloorBlock" xpos ="52" ypos ="15"/> <!--second Half Flooring-->
+  <entity type ="FloorBlock" xpos ="53" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="54" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="55" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="56" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="57" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="58" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="59" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="60" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="61" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="62" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="63" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="64" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="65" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="66" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="67" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="68" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="69" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="70" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="71" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="72" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="73" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="74" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="75" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="76" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="77" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="78" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="79" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="80" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="81" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="82" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="83" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="84" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="85" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="86" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="87" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="88" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="89" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="90" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="91" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="92" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="93" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="94" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="95" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="96" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="97" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="98" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="99" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="100" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="101" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="102" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="103" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="104" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="105" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="106" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="107" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="108" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="109" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="110" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="111" ypos ="15"/>
+
+
+  <entity type ="StairBlock" xpos ="54" ypos ="11"/>  <!--1st floor-->
+  <entity type ="StairBlock" xpos ="55" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="56" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="57" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="58" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="59" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="60" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="61" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="62" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="63" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="64" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="65" ypos ="11"/>
+  <entity type ="StairBlock" xpos ="66" ypos ="11"/>
+
+  
+  <entity type ="BrickCoin" xpos ="56" ypos ="8" coins ="1"/> <!--secound floor-->
+  <entity type ="BrickCoin" xpos ="57" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="58" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="59" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="60" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="61" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="62" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="63" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="64" ypos ="8" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="65" ypos ="8" coins ="10"/>
+
+  <entity type ="BrickCoin" xpos ="59" ypos ="5" coins ="1"/> <!--third floor-->
+  <entity type ="BrickCoin" xpos ="60" ypos ="5" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="61" ypos ="5" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="62" ypos ="5" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="63" ypos ="5" coins ="1"/>
+  <entity type ="BrickCoin" xpos ="64" ypos ="5" coins ="1"/>
+  <entity type ="QBlockFlower" xpos ="65" ypos ="5"/>
+
+
+
+  <entity type ="GKoopa" xpos ="61" ypos ="10"/> <!--middle enemies-->
+  <entity type ="GKoopa" xpos ="63" ypos ="10"/>
+  <entity type ="GKoopa" xpos ="65" ypos ="10"/>
+
+  <entity type ="RKoopa" xpos ="62" ypos ="7"/>  <!--upper enemies-->
+  <entity type ="RKoopa" xpos ="64" ypos ="7"/>
+
+  <entity type ="StairBlock" xpos ="70" ypos ="14"/> <!--Small stair left-->
+  <entity type ="StairBlock" xpos ="71" ypos ="14"/>
+  <entity type ="StairBlock" xpos ="72" ypos ="14"/>
+  <entity type ="StairBlock" xpos ="71" ypos ="13"/>
+  <entity type ="StairBlock" xpos ="72" ypos ="13"/>
+  <entity type ="StairBlock" xpos ="72" ypos ="12"/>
+
+  <entity type ="BrickBlock" xpos ="75" ypos ="11"/> <!--blocks in between stairs-->
+  <entity type ="BrickBlock" xpos ="78" ypos ="11"/>
+  <entity type ="QBlockOneUp" xpos ="81" ypos ="11"/>
+  <entity type ="QBlockMush" xpos ="81" ypos ="5"/>
+  <entity type ="BrickBlock" xpos ="84" ypos ="11"/>
+  <entity type ="BrickBlock" xpos ="87" ypos ="11"/>
+
+  <entity type ="Goomba" xpos ="73" ypos ="14"/>   <!--bottom enemies-->
+  <entity type ="Goomba" xpos ="77" ypos ="14"/>
+  <entity type ="Goomba" xpos ="80" ypos ="14"/>
+  <entity type ="Goomba" xpos ="83" ypos ="14"/>
+  <entity type ="Goomba" xpos ="88" ypos ="14"/>
+
+  <entity type ="StairBlock" xpos ="90" ypos ="14"/> <!--Small stair right-->
+  <entity type ="StairBlock" xpos ="91" ypos ="14"/>
+  <entity type ="StairBlock" xpos ="92" ypos ="14"/>
+  <entity type ="StairBlock" xpos ="90" ypos ="13"/>
+  <entity type ="StairBlock" xpos ="91" ypos ="13"/>
+  <entity type ="StairBlock" xpos ="90" ypos ="12"/>
+
+
+    <entity type ="UnderBB" xpos ="0" ypos ="31"/> <!--Underground Left wall-->
+    <entity type ="UnderBB" xpos ="0" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="27"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="26"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="25"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="24"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="23"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="22"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="21"/>
+    <entity type ="UnderBB" xpos ="0" ypos ="20"/>
+
+    <entity type ="UnderBB" xpos ="24" ypos ="30"/><!--Underground Right wall-->
+    <entity type ="UnderBB" xpos ="24" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="27"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="26"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="25"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="24"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="23"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="22"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="21"/>
+    <entity type ="UnderBB" xpos ="24" ypos ="20"/>
+            
+
+    <entity type ="UnderBB" xpos ="5" ypos ="20"/>  <!--Underground Ceiling-->
+    <entity type ="UnderBB" xpos ="6" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="7" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="8" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="9" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="10" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="11" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="12" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="13" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="14" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="15" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="16" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="17" ypos ="20"/>
+    <entity type ="UnderBB" xpos ="18" ypos ="20"/>
+  
+    <entity type ="UnderFloor" xpos ="0" ypos ="32"/> <!--Underground Floor-->
+    <entity type ="UnderFloor" xpos ="1" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="2" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="3" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="4" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="5" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="6" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="7" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="8" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="9" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="10" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="11" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="12" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="13" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="14" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="15" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="16" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="17" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="18" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="19" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="20" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="21" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="22" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="23" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="24" ypos ="32"/>
+    <entity type ="UnderFloor" xpos ="0" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="1" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="2" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="3" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="4" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="5" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="6" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="7" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="8" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="9" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="10" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="11" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="12" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="13" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="14" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="15" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="16" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="17" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="18" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="19" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="20" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="21" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="22" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="23" ypos ="31"/>
+    <entity type ="UnderFloor" xpos ="24" ypos ="31"/>
+    <entity type ="Coin" xpos ="14" ypos ="15"/> 
+
+
+    <entity type ="UnderBB" xpos ="6" ypos ="30"/> <!--Middle bricks-->
+    <entity type ="UnderBB" xpos ="7" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="8" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="9" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="10" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="11" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="12" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="13" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="14" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="15" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="16" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="17" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="18" ypos ="30"/>
+    <entity type ="UnderBB" xpos ="6" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="7" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="8" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="9" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="10" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="11" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="12" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="13" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="14" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="15" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="16" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="17" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="18" ypos ="29"/>
+    <entity type ="UnderBB" xpos ="6" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="7" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="8" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="9" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="10" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="11" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="12" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="13" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="14" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="15" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="16" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="17" ypos ="28"/>
+    <entity type ="UnderBB" xpos ="18" ypos ="28"/>
+  <entity type ="Coin" xpos ="6" ypos ="27"/> 
+  <entity type ="Coin" xpos ="8" ypos ="27"/>
+  <entity type ="Coin" xpos ="10" ypos ="27"/>
+  <entity type ="Coin" xpos ="12" ypos ="27"/>
+  <entity type ="Coin" xpos ="14" ypos ="27"/>
+  <entity type ="Coin" xpos ="16" ypos ="27"/>
+  <entity type ="Coin" xpos ="18" ypos ="27"/>
+  
+  <entity type ="Coin" xpos ="7" ypos ="26"/>
+  <entity type ="Coin" xpos ="9" ypos ="26"/>
+  <entity type ="Coin" xpos ="11" ypos ="26"/>
+  <entity type ="Coin" xpos ="13" ypos ="26"/>
+  <entity type ="Coin" xpos ="15" ypos ="26"/>
+  <entity type ="Coin" xpos ="17" ypos ="26"/>
+  
+  <entity type ="Coin" xpos ="6" ypos ="25"/> 
+  <entity type ="Coin" xpos ="8" ypos ="25"/>
+  <entity type ="Coin" xpos ="10" ypos ="25"/>
+  <entity type ="Coin" xpos ="12" ypos ="25"/>
+  <entity type ="Coin" xpos ="14" ypos ="25"/>
+  <entity type ="Coin" xpos ="16" ypos ="25"/>
+  <entity type ="Coin" xpos ="18" ypos ="25"/>
+  
+  <entity type ="Coin" xpos ="7" ypos ="24"/>
+  <entity type ="Coin" xpos ="9" ypos ="24"/>
+  <entity type ="Coin" xpos ="11" ypos ="24"/>
+  <entity type ="Coin" xpos ="13" ypos ="24"/>
+  <entity type ="Coin" xpos ="15" ypos ="24"/>
+  <entity type ="Coin" xpos ="17" ypos ="24"/>
+  
+  <entity type ="Coin" xpos ="6" ypos ="23"/> 
+  <entity type ="Coin" xpos ="8" ypos ="23"/>
+  <entity type ="Coin" xpos ="10" ypos ="23"/>
+  <entity type ="Coin" xpos ="12" ypos ="23"/>
+  <entity type ="Coin" xpos ="14" ypos ="23"/>
+  <entity type ="Coin" xpos ="16" ypos ="23"/>
+  <entity type ="Coin" xpos ="18" ypos ="23"/>
+
+  
+
+   <entity type ="WarpPipe" xpos ="44" ypos ="14" length ="1" xpos2 ="1" ypos2 ="30"  length2 ="1"/>
+   <entity type ="WarpPipe" xpos ="22" ypos ="30" length ="1" xpos2 ="98" ypos2 ="14"  length2 ="1"/>
+  <!--Exit-->
+
+  <entity type ="Flag" xpos ="105" ypos ="14"/>
+
+  <!--Boss Room-->
+  <entity type ="BossFB" xpos ="0" ypos ="49"/>
+  <entity type ="BossFB" xpos ="1" ypos ="49"/>
+  <entity type ="BossFB" xpos ="2" ypos ="49"/>
+  <entity type ="BossFB" xpos ="3" ypos ="49"/>
+  <entity type ="BossFB" xpos ="4" ypos ="49"/>
+  <entity type ="BossFB" xpos ="5" ypos ="49"/>
+  <entity type ="BossFB" xpos ="6" ypos ="49"/>
+  <entity type ="BossFB" xpos ="7" ypos ="49"/>
+  <entity type ="BossFB" xpos ="8" ypos ="49"/>
+  <entity type ="BossFB" xpos ="9" ypos ="49"/>
+  <entity type ="BossFB" xpos ="10" ypos ="49"/>
+  <entity type ="BossFB" xpos ="11" ypos ="49"/>
+  <entity type ="BossFB" xpos ="12" ypos ="49"/>
+  <entity type ="BossFB" xpos ="13" ypos ="49"/>
+  <entity type ="BossFB" xpos ="14" ypos ="49"/>
+  <entity type ="BossFB" xpos ="15" ypos ="49"/>
+  <entity type ="BossFB" xpos ="16" ypos ="49"/>
+  <entity type ="BossFB" xpos ="17" ypos ="49"/>
+  <entity type ="BossFB" xpos ="18" ypos ="49"/>
+  <entity type ="BossFB" xpos ="19" ypos ="49"/>
+  <entity type ="BossFB" xpos ="20" ypos ="49"/>
+  <entity type ="BossFB" xpos ="21" ypos ="49"/>
+  <entity type ="BossFB" xpos ="22" ypos ="49"/>
+  <entity type ="BossFB" xpos ="23" ypos ="49"/>
+  <entity type ="BossFB" xpos ="24" ypos ="49"/>
+  <entity type ="BossFB" xpos ="25" ypos ="49"/>
+  <entity type ="BossFB" xpos ="26" ypos ="49"/>
+  <entity type ="BossFB" xpos ="27" ypos ="49"/>
+  <entity type ="BossFB" xpos ="28" ypos ="49"/>
+
+  <entity type ="BossFB" xpos ="29" ypos ="49"/>
+  <entity type ="BossFB" xpos ="30" ypos ="49"/>
+  <entity type ="BossFB" xpos ="31" ypos ="49"/>
+  <entity type ="BossFB" xpos ="32" ypos ="49"/>
+  <entity type ="BossFB" xpos ="33" ypos ="49"/>
+
+  <entity type ="BossFB" xpos ="0" ypos ="48"/>
+  <entity type ="BossFB" xpos ="1" ypos ="48"/>
+  <entity type ="BossFB" xpos ="2" ypos ="48"/>
+  <entity type ="BossFB" xpos ="3" ypos ="48"/>
+  <entity type ="BossFB" xpos ="4" ypos ="48"/>
+  <entity type ="BossFB" xpos ="5" ypos ="48"/>
+  <entity type ="BossFB" xpos ="6" ypos ="48"/>
+  <entity type ="BossFB" xpos ="7" ypos ="48"/>
+  <entity type ="BossFB" xpos ="8" ypos ="48"/>
+  <entity type ="BossFB" xpos ="9" ypos ="48"/>
+  <entity type ="BossFB" xpos ="10" ypos ="48"/>
+  <entity type ="BossFB" xpos ="11" ypos ="48"/>
+  <entity type ="BossFB" xpos ="12" ypos ="48"/>
+  <entity type ="BossFB" xpos ="13" ypos ="48"/>
+  <entity type ="BossFB" xpos ="14" ypos ="48"/>
+  <entity type ="BossFB" xpos ="15" ypos ="48"/>
+  <entity type ="BossFB" xpos ="16" ypos ="48"/>
+  <entity type ="BossFB" xpos ="17" ypos ="48"/>
+  <entity type ="BossFB" xpos ="18" ypos ="48"/>
+  <entity type ="BossFB" xpos ="19" ypos ="48"/>
+  <entity type ="BossFB" xpos ="20" ypos ="48"/>
+  <entity type ="BossFB" xpos ="21" ypos ="48"/>
+  <entity type ="BossFB" xpos ="22" ypos ="48"/>
+  <entity type ="BossFB" xpos ="23" ypos ="48"/>
+  <entity type ="BossFB" xpos ="24" ypos ="48"/>
+  <entity type ="BossFB" xpos ="25" ypos ="48"/>
+  <entity type ="BossFB" xpos ="26" ypos ="48"/>
+  <entity type ="BossFB" xpos ="27" ypos ="48"/>
+  <entity type ="BossFB" xpos ="28" ypos ="48"/>
+
+  <entity type ="BossFB" xpos ="29" ypos ="48"/>
+  <entity type ="BossFB" xpos ="30" ypos ="48"/>
+  <entity type ="BossFB" xpos ="31" ypos ="48"/>
+  <entity type ="BossFB" xpos ="32" ypos ="48"/>
+  <entity type ="BossFB" xpos ="33" ypos ="48"/>
+
+  <entity type ="BossFB" xpos ="29" ypos ="47"/>
+  <entity type ="BossFB" xpos ="30" ypos ="47"/>
+  <entity type ="BossFB" xpos ="31" ypos ="47"/>
+  <entity type ="BossFB" xpos ="32" ypos ="47"/>
+  <entity type ="BossFB" xpos ="33" ypos ="47"/>
+
+  <entity type ="BossFB" xpos ="29" ypos ="46"/>
+  <entity type ="BossFB" xpos ="30" ypos ="46"/>
+  <entity type ="BossFB" xpos ="31" ypos ="46"/>
+  <entity type ="BossFB" xpos ="32" ypos ="46"/>
+  <entity type ="BossFB" xpos ="33" ypos ="46"/>
+
+  <entity type ="BossFB" xpos ="29" ypos ="45"/>
+  <entity type ="BossFB" xpos ="30" ypos ="45"/>
+  <entity type ="BossFB" xpos ="31" ypos ="45"/>
+  <entity type ="BossFB" xpos ="32" ypos ="45"/>
+  <entity type ="BossFB" xpos ="33" ypos ="45"/>
+  
+  <entity type ="Bowser" xpos ="52" ypos ="43"/>  
+
+  <entity type ="BossBB" xpos ="0" ypos ="37"/>
+  <entity type ="BossBB" xpos ="1" ypos ="37"/>
+  <entity type ="BossBB" xpos ="2" ypos ="37"/>
+  <entity type ="BossBB" xpos ="3" ypos ="37"/>
+  <entity type ="BossBB" xpos ="4" ypos ="37"/>
+  <entity type ="BossBB" xpos ="5" ypos ="37"/>
+  <entity type ="BossBB" xpos ="6" ypos ="37"/>
+  <entity type ="BossBB" xpos ="7" ypos ="37"/>
+  <entity type ="BossBB" xpos ="8" ypos ="37"/>
+  <entity type ="BossBB" xpos ="9" ypos ="37"/>
+  <entity type ="BossBB" xpos ="10" ypos ="37"/>
+  <entity type ="BossBB" xpos ="11" ypos ="37"/>
+  <entity type ="BossBB" xpos ="12" ypos ="37"/>
+  <entity type ="BossBB" xpos ="13" ypos ="37"/>
+  <entity type ="BossBB" xpos ="14" ypos ="37"/>
+  <entity type ="BossBB" xpos ="15" ypos ="37"/>
+  <entity type ="BossBB" xpos ="16" ypos ="37"/>
+  <entity type ="BossBB" xpos ="17" ypos ="37"/>
+  <entity type ="BossBB" xpos ="18" ypos ="37"/>
+  <entity type ="BossBB" xpos ="19" ypos ="37"/>
+  <entity type ="BossBB" xpos ="20" ypos ="37"/>
+  <entity type ="BossBB" xpos ="21" ypos ="37"/>
+  <entity type ="BossBB" xpos ="22" ypos ="37"/>
+  <entity type ="BossBB" xpos ="23" ypos ="37"/>
+  <entity type ="BossBB" xpos ="24" ypos ="37"/>
+  <entity type ="BossBB" xpos ="25" ypos ="37"/>
+  <entity type ="BossBB" xpos ="26" ypos ="37"/>
+  <entity type ="BossBB" xpos ="27" ypos ="37"/>
+  <entity type ="BossBB" xpos ="28" ypos ="37"/>
+
+  <entity type ="BossBB" xpos ="29" ypos ="37"/>
+  <entity type ="BossBB" xpos ="30" ypos ="37"/>
+  <entity type ="BossBB" xpos ="31" ypos ="37"/>
+  <entity type ="BossBB" xpos ="32" ypos ="37"/>
+  <entity type ="BossBB" xpos ="33" ypos ="37"/>
+  <entity type ="BossBB" xpos ="34" ypos ="37"/>
+  <entity type ="BossBB" xpos ="35" ypos ="37"/>
+  <entity type ="BossBB" xpos ="36" ypos ="37"/>
+  <entity type ="BossBB" xpos ="37" ypos ="37"/>
+  <entity type ="BossBB" xpos ="38" ypos ="37"/>
+  <entity type ="BossBB" xpos ="39" ypos ="37"/>
+  <entity type ="BossBB" xpos ="40" ypos ="37"/>
+  <entity type ="BossBB" xpos ="41" ypos ="37"/>
+  <entity type ="BossBB" xpos ="42" ypos ="37"/>
+  <entity type ="BossBB" xpos ="43" ypos ="37"/>
+  <entity type ="BossBB" xpos ="44" ypos ="37"/>
+  <entity type ="BossBB" xpos ="45" ypos ="37"/>
+  <entity type ="BossBB" xpos ="46" ypos ="37"/>
+  <entity type ="BossBB" xpos ="47" ypos ="37"/>
+  <entity type ="BossBB" xpos ="48" ypos ="37"/>
+  <entity type ="BossBB" xpos ="49" ypos ="37"/>
+  <entity type ="BossBB" xpos ="50" ypos ="37"/>
+  <entity type ="BossBB" xpos ="51" ypos ="37"/>
+  <entity type ="BossBB" xpos ="52" ypos ="37"/>
+  <entity type ="BossBB" xpos ="53" ypos ="37"/>
+  <entity type ="BossBB" xpos ="54" ypos ="37"/>
+  <entity type ="BossBB" xpos ="55" ypos ="37"/>
+  <entity type ="BossBB" xpos ="56" ypos ="37"/>
+
+
+  <entity type ="BossBB" xpos ="29" ypos ="38"/>
+  <entity type ="BossBB" xpos ="30" ypos ="38"/>
+  <entity type ="BossBB" xpos ="31" ypos ="38"/>
+  <entity type ="BossBB" xpos ="32" ypos ="38"/>
+  <entity type ="BossBB" xpos ="33" ypos ="38"/>
+
+  <entity type ="BossBB" xpos ="29" ypos ="39"/>
+  <entity type ="BossBB" xpos ="30" ypos ="39"/>
+  <entity type ="BossBB" xpos ="31" ypos ="39"/>
+  <entity type ="BossBB" xpos ="32" ypos ="39"/>
+  <entity type ="BossBB" xpos ="33" ypos ="39"/>
+
+  <entity type ="Bridge" xpos ="54" ypos ="45"/>
+  <entity type ="Bridge" xpos ="53" ypos ="45"/>
+  <entity type ="Bridge" xpos ="52" ypos ="45"/>
+  <entity type ="Bridge" xpos ="51" ypos ="45"/>
+  <entity type ="Bridge" xpos ="50" ypos ="45"/>
+  <entity type ="Bridge" xpos ="49" ypos ="45"/>
+  <entity type ="Bridge" xpos ="48" ypos ="45"/>
+  <entity type ="Bridge" xpos ="47" ypos ="45"/>
+  <entity type ="Bridge" xpos ="46" ypos ="45"/>
+  <entity type ="Bridge" xpos ="45" ypos ="45"/>
+  <entity type ="Bridge" xpos ="44" ypos ="45"/>
+  <entity type ="Bridge" xpos ="43" ypos ="45"/>
+  <entity type ="Bridge" xpos ="42" ypos ="45"/>
+  <entity type ="Bridge" xpos ="41" ypos ="45"/>
+  <entity type ="Bridge" xpos ="40" ypos ="45"/>
+  <entity type ="Bridge" xpos ="39" ypos ="45"/>
+  <entity type ="Bridge" xpos ="38" ypos ="45"/>
+  <entity type ="Bridge" xpos ="37" ypos ="45"/>
+  <entity type ="Bridge" xpos ="36" ypos ="45"/>
+  <entity type ="Bridge" xpos ="35" ypos ="45"/>
+  <entity type ="Bridge" xpos ="34" ypos ="45"/>
+
+  <entity type ="Flame" xpos ="34" ypos ="49"/>
+  <entity type ="Flame" xpos ="35" ypos ="49"/>
+  <entity type ="Flame" xpos ="36" ypos ="49"/>
+  <entity type ="Flame" xpos ="37" ypos ="49"/>
+  <entity type ="Flame" xpos ="38" ypos ="49"/>
+  <entity type ="Flame" xpos ="39" ypos ="49"/>
+  <entity type ="Flame" xpos ="40" ypos ="49"/>
+  <entity type ="Flame" xpos ="41" ypos ="49"/>
+  <entity type ="Flame" xpos ="42" ypos ="49"/>
+  <entity type ="Flame" xpos ="43" ypos ="49"/>
+  <entity type ="Flame" xpos ="44" ypos ="49"/>
+  <entity type ="Flame" xpos ="45" ypos ="49"/>
+  <entity type ="Flame" xpos ="46" ypos ="49"/>
+  <entity type ="Flame" xpos ="47" ypos ="49"/>
+  <entity type ="Flame" xpos ="48" ypos ="49"/>
+  <entity type ="Flame" xpos ="49" ypos ="49"/>
+  <entity type ="Flame" xpos ="50" ypos ="49"/>
+  <entity type ="Flame" xpos ="51" ypos ="49"/>
+  <entity type ="Flame" xpos ="52" ypos ="49"/>
+  <entity type ="Flame" xpos ="53" ypos ="49"/>
+  <entity type ="Flame" xpos ="54" ypos ="49"/>
+
+  <entity type ="BossFB" xpos ="55" ypos ="44"/>
+  <entity type ="BossFB" xpos ="55" ypos ="45"/>
+  <entity type ="BossFB" xpos ="55" ypos ="46"/>
+  <entity type ="BossFB" xpos ="55" ypos ="47"/>
+  <entity type ="BossFB" xpos ="55" ypos ="48"/>
+  <entity type ="BossFB" xpos ="55" ypos ="49"/>
+  <entity type ="BossFB" xpos ="56" ypos ="44"/>
+  <entity type ="BossFB" xpos ="57" ypos ="44"/>
+  <entity type ="BossFB" xpos ="56" ypos ="45"/>
+  <entity type ="BossFB" xpos ="57" ypos ="45"/>
+  <entity type ="BossFB" xpos ="56" ypos ="46"/>
+  <entity type ="BossFB" xpos ="57" ypos ="46"/>
+  <entity type ="BossFB" xpos ="56" ypos ="47"/>
+  <entity type ="BossFB" xpos ="57" ypos ="47"/>
+  <entity type ="BossFB" xpos ="56" ypos ="48"/>
+  <entity type ="BossFB" xpos ="57" ypos ="48"/>
+  <entity type ="BossFB" xpos ="56" ypos ="49"/>
+  <entity type ="BossFB" xpos ="57" ypos ="49"/>
+
+  <entity type ="Axe" xpos ="55" ypos ="43"/>
+
+  <entity type ="BossBB" xpos ="57" ypos ="37"/>
+
+  <entity type ="BossFB" xpos ="58" ypos ="48"/>
+  <entity type ="BossFB" xpos ="59" ypos ="48"/>
+  <entity type ="BossFB" xpos ="60" ypos ="48"/>
+  <entity type ="BossFB" xpos ="61" ypos ="48"/>
+  <entity type ="BossFB" xpos ="62" ypos ="48"/>
+  <entity type ="BossFB" xpos ="63" ypos ="48"/>
+  <entity type ="BossFB" xpos ="64" ypos ="48"/>
+  <entity type ="BossFB" xpos ="65" ypos ="48"/>
+  <entity type ="BossFB" xpos ="66" ypos ="48"/>
+  <entity type ="BossFB" xpos ="67" ypos ="48"/>
+  <entity type ="BossFB" xpos ="68" ypos ="48"/>
+  <entity type ="BossFB" xpos ="69" ypos ="48"/>
+  <entity type ="BossFB" xpos ="70" ypos ="48"/>
+  <entity type ="BossFB" xpos ="71" ypos ="48"/>
+  <entity type ="BossFB" xpos ="72" ypos ="48"/>
+  <entity type ="BossFB" xpos ="73" ypos ="48"/>
+  <entity type ="BossFB" xpos ="74" ypos ="48"/>
+  <entity type ="BossFB" xpos ="75" ypos ="48"/>
+  <entity type ="BossFB" xpos ="76" ypos ="48"/>
+  <entity type ="BossFB" xpos ="77" ypos ="48"/>
+  <entity type ="BossFB" xpos ="78" ypos ="48"/>
+  <entity type ="BossFB" xpos ="58" ypos ="49"/>
+  <entity type ="BossFB" xpos ="59" ypos ="49"/>
+  <entity type ="BossFB" xpos ="60" ypos ="49"/>
+  <entity type ="BossFB" xpos ="61" ypos ="49"/>
+  <entity type ="BossFB" xpos ="62" ypos ="49"/>
+  <entity type ="BossFB" xpos ="63" ypos ="49"/>
+  <entity type ="BossFB" xpos ="64" ypos ="49"/>
+  <entity type ="BossFB" xpos ="65" ypos ="49"/>
+  <entity type ="BossFB" xpos ="66" ypos ="49"/>
+  <entity type ="BossFB" xpos ="67" ypos ="49"/>
+  <entity type ="BossFB" xpos ="68" ypos ="49"/>
+  <entity type ="BossFB" xpos ="69" ypos ="49"/>
+  <entity type ="BossFB" xpos ="70" ypos ="49"/>
+  <entity type ="BossFB" xpos ="71" ypos ="49"/>
+  <entity type ="BossFB" xpos ="72" ypos ="49"/>
+  <entity type ="BossFB" xpos ="73" ypos ="49"/>
+  <entity type ="BossFB" xpos ="74" ypos ="49"/>
+  <entity type ="BossFB" xpos ="75" ypos ="49"/>
+  <entity type ="BossFB" xpos ="76" ypos ="49"/>
+  <entity type ="BossFB" xpos ="77" ypos ="49"/>
+  <entity type ="BossFB" xpos ="78" ypos ="49"/>
+  <entity type ="BossFB" xpos ="78" ypos ="49"/>
+  <entity type ="BossFB" xpos ="79" ypos ="49"/>
+  <entity type ="BossFB" xpos ="80" ypos ="49"/>
+  <entity type ="BossFB" xpos ="81" ypos ="49"/>
+  <entity type ="BossFB" xpos ="82" ypos ="49"/>
+  <entity type ="BossFB" xpos ="83" ypos ="49"/>
+  <entity type ="BossFB" xpos ="84" ypos ="49"/>
+  <entity type ="BossFB" xpos ="85" ypos ="49"/>
+  <entity type ="BossFB" xpos ="86" ypos ="49"/>
+  <entity type ="BossFB" xpos ="87" ypos ="49"/>
+  <entity type ="BossFB" xpos ="88" ypos ="49"/>
+  <entity type ="BossFB" xpos ="89" ypos ="49"/>
+  <entity type ="BossFB" xpos ="90" ypos ="49"/>
+  <entity type ="BossFB" xpos ="91" ypos ="49"/>
+  <entity type ="BossFB" xpos ="92" ypos ="49"/>
+  <entity type ="BossFB" xpos ="93" ypos ="49"/>
+  <entity type ="BossFB" xpos ="94" ypos ="49"/>
+  <entity type ="BossFB" xpos ="95" ypos ="49"/>
+  <entity type ="BossFB" xpos ="96" ypos ="49"/>
+  <entity type ="BossFB" xpos ="97" ypos ="49"/>
+  <entity type ="BossFB" xpos ="98" ypos ="49"/>
+
+  <entity type ="BossFB" xpos ="78" ypos ="48"/>
+  <entity type ="BossFB" xpos ="79" ypos ="48"/>
+  <entity type ="BossFB" xpos ="80" ypos ="48"/>
+  <entity type ="BossFB" xpos ="81" ypos ="48"/>
+  <entity type ="BossFB" xpos ="82" ypos ="48"/>
+  <entity type ="BossFB" xpos ="83" ypos ="48"/>
+  <entity type ="BossFB" xpos ="84" ypos ="48"/>
+  <entity type ="BossFB" xpos ="85" ypos ="48"/>
+  <entity type ="BossFB" xpos ="86" ypos ="48"/>
+  <entity type ="BossFB" xpos ="87" ypos ="48"/>
+  <entity type ="BossFB" xpos ="88" ypos ="48"/>
+  <entity type ="BossFB" xpos ="89" ypos ="48"/>
+  <entity type ="BossFB" xpos ="90" ypos ="48"/>
+  <entity type ="BossFB" xpos ="91" ypos ="48"/>
+  <entity type ="BossFB" xpos ="92" ypos ="48"/>
+  <entity type ="BossFB" xpos ="93" ypos ="48"/>
+  <entity type ="BossFB" xpos ="94" ypos ="48"/>
+  <entity type ="BossFB" xpos ="95" ypos ="48"/>
+  <entity type ="BossFB" xpos ="96" ypos ="48"/>
+  <entity type ="BossFB" xpos ="97" ypos ="48"/>
+  <entity type ="BossFB" xpos ="98" ypos ="48"/>
+  
+  <entity type ="BossFB" xpos ="99" ypos ="48"/>
+  <entity type ="BossFB" xpos ="100" ypos ="48"/>
+  <entity type ="BossFB" xpos ="101" ypos ="48"/>
+  <entity type ="BossFB" xpos ="102" ypos ="48"/>
+  <entity type ="BossFB" xpos ="103" ypos ="48"/>
+  <entity type ="BossFB" xpos ="104" ypos ="48"/>
+  <entity type ="BossFB" xpos ="105" ypos ="48"/>
+  <entity type ="BossFB" xpos ="106" ypos ="48"/>
+  <entity type ="BossFB" xpos ="107" ypos ="48"/>
+  <entity type ="BossFB" xpos ="108" ypos ="48"/>
+  
+  <entity type ="BossFB" xpos ="99" ypos ="49"/>
+  <entity type ="BossFB" xpos ="100" ypos ="49"/>
+  <entity type ="BossFB" xpos ="101" ypos ="49"/>
+  <entity type ="BossFB" xpos ="102" ypos ="49"/>
+  <entity type ="BossFB" xpos ="103" ypos ="49"/>
+  <entity type ="BossFB" xpos ="104" ypos ="49"/>
+  <entity type ="BossFB" xpos ="105" ypos ="49"/>
+  <entity type ="BossFB" xpos ="106" ypos ="49"/>
+  <entity type ="BossFB" xpos ="107" ypos ="49"/>
+  <entity type ="BossFB" xpos ="108" ypos ="49"/>
+  
+  <entity type ="BossFB" xpos ="109" ypos ="49"/>
+  <entity type ="BossFB" xpos ="110" ypos ="49"/>
+  <entity type ="BossFB" xpos ="111" ypos ="49"/>
+  <entity type ="BossFB" xpos ="112" ypos ="49"/>
+  <entity type ="BossFB" xpos ="113" ypos ="49"/>
+  <entity type ="BossFB" xpos ="114" ypos ="49"/>
+  <entity type ="BossFB" xpos ="115" ypos ="49"/>
+  <entity type ="BossFB" xpos ="116" ypos ="49"/>
+  <entity type ="BossFB" xpos ="117" ypos ="49"/>
+  <entity type ="BossFB" xpos ="118" ypos ="49"/>
+
+  <entity type ="BossFB" xpos ="119" ypos ="48"/>
+  <entity type ="BossFB" xpos ="120" ypos ="48"/>
+  <entity type ="BossFB" xpos ="121" ypos ="48"/>
+  <entity type ="BossFB" xpos ="122" ypos ="48"/>
+  <entity type ="BossFB" xpos ="123" ypos ="48"/>
+  <entity type ="BossFB" xpos ="124" ypos ="48"/>
+  <entity type ="BossFB" xpos ="125" ypos ="48"/>
+  <entity type ="BossFB" xpos ="126" ypos ="48"/>
+  <entity type ="BossFB" xpos ="127" ypos ="48"/>
+  <entity type ="BossFB" xpos ="128" ypos ="48"/>
+  
+  <entity type ="BossFB" xpos ="119" ypos ="49"/>
+  <entity type ="BossFB" xpos ="120" ypos ="49"/>
+  <entity type ="BossFB" xpos ="121" ypos ="49"/>
+  <entity type ="BossFB" xpos ="122" ypos ="49"/>
+  <entity type ="BossFB" xpos ="123" ypos ="49"/>
+  <entity type ="BossFB" xpos ="124" ypos ="49"/>
+  <entity type ="BossFB" xpos ="125" ypos ="49"/>
+  <entity type ="BossFB" xpos ="126" ypos ="49"/>
+  <entity type ="BossFB" xpos ="127" ypos ="49"/>
+  <entity type ="BossFB" xpos ="128" ypos ="49"/>
+  
+  <entity type ="BossFB" xpos ="109" ypos ="48"/>
+  <entity type ="BossFB" xpos ="110" ypos ="48"/>
+  <entity type ="BossFB" xpos ="111" ypos ="48"/>
+  <entity type ="BossFB" xpos ="112" ypos ="48"/>
+  <entity type ="BossFB" xpos ="113" ypos ="48"/>
+  <entity type ="BossFB" xpos ="114" ypos ="48"/>
+  <entity type ="BossFB" xpos ="115" ypos ="48"/>
+  <entity type ="BossFB" xpos ="116" ypos ="48"/>
+  <entity type ="BossFB" xpos ="117" ypos ="48"/>
+  <entity type ="BossFB" xpos ="118" ypos ="48"/>
+  
+  
+  <entity type ="BossFB" xpos ="104" ypos ="47"/>
+  <entity type ="BossFB" xpos ="105" ypos ="47"/>
+  <entity type ="BossFB" xpos ="106" ypos ="47"/>
+  <entity type ="BossFB" xpos ="107" ypos ="47"/>
+  <entity type ="BossFB" xpos ="108" ypos ="47"/>
+  <entity type ="BossFB" xpos ="109" ypos ="47"/>
+  <entity type ="BossFB" xpos ="110" ypos ="47"/>
+  
+  <entity type ="BossFB" xpos ="105" ypos ="46"/>
+  <entity type ="BossFB" xpos ="106" ypos ="46"/>
+  <entity type ="BossFB" xpos ="107" ypos ="46"/>
+  <entity type ="BossFB" xpos ="108" ypos ="46"/>
+  <entity type ="BossFB" xpos ="109" ypos ="46"/>
+  <entity type ="BossFB" xpos ="110" ypos ="46"/>
+  
+  <entity type ="BossFB" xpos ="106" ypos ="45"/>
+  <entity type ="BossFB" xpos ="107" ypos ="45"/>
+  <entity type ="BossFB" xpos ="108" ypos ="45"/>
+  <entity type ="BossFB" xpos ="109" ypos ="45"/>
+  <entity type ="BossFB" xpos ="110" ypos ="45"/>
+  
+  <entity type ="BossFB" xpos ="107" ypos ="44"/>
+  <entity type ="BossFB" xpos ="108" ypos ="44"/>
+  <entity type ="BossFB" xpos ="109" ypos ="44"/>
+  <entity type ="BossFB" xpos ="110" ypos ="44"/>
+  
+    <entity type ="BossFB" xpos ="108" ypos ="43"/>
+  <entity type ="BossFB" xpos ="109" ypos ="43"/>
+  <entity type ="BossFB" xpos ="110" ypos ="43"/>
+  
+    <entity type ="BossFB" xpos ="109" ypos ="42"/>
+  <entity type ="BossFB" xpos ="110" ypos ="42"/>
+  
+  <entity type ="BossFB" xpos ="110" ypos ="41"/>
+
+
+  <entity type ="Coin" xpos ="64" ypos ="39"/> 
+  <entity type ="Coin" xpos ="65" ypos ="40"/> 
+  <entity type ="Coin" xpos ="66" ypos ="41"/> 
+  <entity type ="Coin" xpos ="67" ypos ="40"/>   <!--Y-->
+  <entity type ="Coin" xpos ="68" ypos ="39"/> 
+  <entity type ="Coin" xpos ="66" ypos ="42"/> 
+  <entity type ="Coin" xpos ="66" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="70" ypos ="39"/> 
+  <entity type ="Coin" xpos ="70" ypos ="40"/> 
+  <entity type ="Coin" xpos ="70" ypos ="41"/> 
+  <entity type ="Coin" xpos ="70" ypos ="42"/> 
+  <entity type ="Coin" xpos ="70" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="73" ypos ="39"/> 
+  <entity type ="Coin" xpos ="73" ypos ="40"/> 
+  <entity type ="Coin" xpos ="73" ypos ="41"/> 
+  <entity type ="Coin" xpos ="73" ypos ="42"/> 
+  <entity type ="Coin" xpos ="73" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="71" ypos ="39"/> 
+  <entity type ="Coin" xpos ="72" ypos ="39"/> 
+  <entity type ="Coin" xpos ="71" ypos ="43"/> 
+  <entity type ="Coin" xpos ="72" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="75" ypos ="39"/> 
+  <entity type ="Coin" xpos ="75" ypos ="40"/> 
+  <entity type ="Coin" xpos ="75" ypos ="41"/> 
+  <entity type ="Coin" xpos ="75" ypos ="42"/> 
+  <entity type ="Coin" xpos ="75" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="78" ypos ="39"/> 
+  <entity type ="Coin" xpos ="78" ypos ="40"/> 
+  <entity type ="Coin" xpos ="78" ypos ="41"/> 
+  <entity type ="Coin" xpos ="78" ypos ="42"/> 
+  <entity type ="Coin" xpos ="78" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="76" ypos ="43"/> 
+  <entity type ="Coin" xpos ="77" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="81" ypos ="39"/> 
+  <entity type ="Coin" xpos ="81" ypos ="40"/> 
+  <entity type ="Coin" xpos ="81" ypos ="41"/> 
+  <entity type ="Coin" xpos ="81" ypos ="42"/> 
+  <entity type ="Coin" xpos ="82" ypos ="43"/> 
+  <entity type ="Coin" xpos ="83" ypos ="43"/> 
+  <entity type ="Coin" xpos ="84" ypos ="42"/> 
+  <entity type ="Coin" xpos ="84" ypos ="40"/> 
+  <entity type ="Coin" xpos ="84" ypos ="41"/> 
+  <entity type ="Coin" xpos ="87" ypos ="39"/> 
+  <entity type ="Coin" xpos ="87" ypos ="40"/> 
+  <entity type ="Coin" xpos ="87" ypos ="41"/> 
+  <entity type ="Coin" xpos ="87" ypos ="42"/> 
+  <entity type ="Coin" xpos ="85" ypos ="43"/> 
+  <entity type ="Coin" xpos ="86" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="89" ypos ="39"/>
+  <entity type ="Coin" xpos ="90" ypos ="39"/> 
+  <entity type ="Coin" xpos ="91" ypos ="39"/> 
+  <entity type ="Coin" xpos ="92" ypos ="39"/> 
+  <entity type ="Coin" xpos ="93" ypos ="39"/> 
+  
+  <entity type ="Coin" xpos ="91" ypos ="40"/> 
+  <entity type ="Coin" xpos ="91" ypos ="41"/> 
+  <entity type ="Coin" xpos ="91" ypos ="42"/> 
+  
+  <entity type ="Coin" xpos ="89" ypos ="43"/>
+  <entity type ="Coin" xpos ="90" ypos ="43"/> 
+  <entity type ="Coin" xpos ="91" ypos ="43"/> 
+  <entity type ="Coin" xpos ="92" ypos ="43"/> 
+  <entity type ="Coin" xpos ="93" ypos ="43"/> 
+
+  <entity type ="Coin" xpos ="95" ypos ="39"/> 
+  <entity type ="Coin" xpos ="95" ypos ="40"/> 
+  <entity type ="Coin" xpos ="95" ypos ="41"/> 
+  <entity type ="Coin" xpos ="95" ypos ="42"/> 
+  <entity type ="Coin" xpos ="95" ypos ="43"/> 
+  
+  <entity type ="Coin" xpos ="96" ypos ="40"/> 
+  <entity type ="Coin" xpos ="97" ypos ="41"/> 
+  <entity type ="Coin" xpos ="98" ypos ="42"/> 
+
+  <entity type ="Coin" xpos ="99" ypos ="39"/> 
+  <entity type ="Coin" xpos ="99" ypos ="40"/> 
+  <entity type ="Coin" xpos ="99" ypos ="41"/> 
+  <entity type ="Coin" xpos ="99" ypos ="42"/> 
+  <entity type ="Coin" xpos ="99" ypos ="43"/> 
+
+
+  <entity type ="Flag" xpos ="120" ypos ="47"/>
+
+</level>

@@ -1,0 +1,15 @@
+﻿Author of the code review : Linda Kohlndorfer
+Date of the code review : 10/16/2018
+Sprint number : 2
+Name of the .cs file being reviewed : GamepadController.cs and KeyboardController.cs
+Author of the .cs file being reviewed : Jerry Ding
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+
+Adding a previous gamepad/keyboard state was a great way to make a distinction between if a keypad was breifly pressed down, or if its being held down.
+My only concern is if the game is updating faster than a person releases a button, it might register as being held down rather than it being breifly pressed.
+I think adding some kind of wait command could help with this, i.e. if a key is held down for less than 1/4 of a second, it's registerd as a one time click, but for any longer, it registers as it's being held down.
+However, this could cause problems, like causing the update command to only run every 1/4 of a second. 
+This kind of change could be added later depending on what kind of game controlls we want.
+
+The way the code is written now is easy to understand, and simple to debug if need be. 

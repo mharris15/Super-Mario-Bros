@@ -1,0 +1,16 @@
+﻿Author of the code review : Linda Kohlndorfer
+Date of the code review : 11/29/18
+Sprint number : 5
+Name of the .cs file being reviewed : Projectiles.cs
+Author of the .cs file being reviewed : Josh Lisco
+Number of minutes taken to complete the review: 20
+Specific comments on code quality :
+
+Originally I had been trying to make projectiles there own enemy. But it was getting to complicated having to activate them and have such drastically different behavoir.
+Having Projectiles be there own objects made the game far simpler. This class was obviously taken from the enemy object class and altereted.
+This was a quick and effective way to impliment projectiles as they act in many ways similar to enemies.
+Having the projectile class made adding projectiles to mario, bowser, lakitu, and Hammerbros relatilvely simple, instead of spending a long time trying to implement each different type of projectile as it's own enemy type.
+
+If we had thought to do this earlier, more time could have been spent making an entirely new design for projectiles instead of making a copy of the enemy design and working from there. 
+This would get rid of excess code and created more efficent implementation, instead of looking at projectiles through an enemy lense.
+

@@ -1,0 +1,14 @@
+﻿Author of the code review : Adam Davis
+Date of the code review : 11/13/2018
+Sprint number : 4
+Name of the .cs file being reviewed :   SoundBank.cs
+Author of the .cs file being reviewed :   Josh Lisco
+Number of minutes taken to complete the review: 15
+Specific comments on code quality : 
+
+	The first thing I noticed was that this class has the same problem in it's cyclomatic complexity as the level
+	loader. This could be changed by seperating the switch function into different groups. This should'nt be a problem
+	overall but is bad for code smell. The functionality of the sound seems of and I think the mediaplayer.volume needs
+	turned up a little(ofcoarse all systems are different). Given the purpose of this class this code is easy to read
+	and seams like a good solution.
+	

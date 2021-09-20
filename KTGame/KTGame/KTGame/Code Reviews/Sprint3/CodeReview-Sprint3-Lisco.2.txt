@@ -1,0 +1,13 @@
+﻿Author of the code review : Josh Lisco
+Date of the code review : 10/30/18
+Sprint number : 3
+Name of the .cs file being reviewed : PlayerFallingState
+Author of the .cs file being reviewed : Jerry Ding
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+	THe implementation of the Acceleration vector into the player movement is well used here. 
+	Specifically, the way the player is able to minutely adjust their position and velocity in the air, 
+	and the way the player sprite adjusts to match that is quite good. Additionally, the state transitions 
+	associated with entering and exiting the landing state based on how the player is moving are well done. I see no obvious bugs or design 
+	flaws here - it all seems pretty simple and functional. The code here meshes well
+	with the transitions between the other states, too. Good job!!!!

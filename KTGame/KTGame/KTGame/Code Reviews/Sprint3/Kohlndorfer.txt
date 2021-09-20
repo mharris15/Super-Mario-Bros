@@ -1,0 +1,18 @@
+﻿Author of the code review : Linda Kohlndorfer
+Date of the code review : 10/30/18
+Sprint number : 3
+Name of the .cs file being reviewed : Camera.cs and it's implimentation in MarioWorld
+Author of the .cs file being reviewed : Michael Harris
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+
+The Camera class itself didn't take a lot of user input, because we were given sample code to work off of.
+
+It was very helpful having the camera's position be avalble in the MarioWorld class.
+We were able to take advantage of that for checking if enemies were in view before being activated, and the paralax scrolling.
+It would be nice if the there were comments or descriptions anywhere about how the numbers of the camera's position could be used.
+By that I mean, I had to reach out specifically and ask for the viewport width was and if the x position of the camera was on the left, right, or center.
+And going off that, for implementing whether enemies where on screen or not, it would have been more helpful to meto have the x and y position of the camera mean the centre of the screen.
+In the Camera code itself, the center of the screen was used by taking viewportwidth/2.
+Having that value, adnd the viewport available outside of the Camera class would have been helpful.
+

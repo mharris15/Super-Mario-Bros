@@ -1,0 +1,13 @@
+﻿Author of the code review : Adam Davis
+Date of the code review : 11/29/18
+Sprint number : 5
+Name of the .cs file being reviewed : MarioWorld.cs-Update Method
+Author of the .cs file being reviewed :   Jerry Ding 
+Number of minutes taken to complete the review:  10
+Specific comments on code quality :
+
+	The first thing I notice with this code is that it's focus seems to be in to many things leading to bad
+	code smell ikn this method. The file that affect the camera seem to only be specific to the level currently 
+	create making it hard to be used for future levels. A future fix for this could be changing the reset and conditions
+	to be part of the input in the xml so that it could be used for future levels. This code seems to be developed to 
+	finish the sprint, it is sprint 5 so a patch work understandably will not be resolved.

@@ -1,0 +1,15 @@
+﻿Author of the code review : Michael Harris
+Date of the code review : 10/16/2018
+Sprint number : 2
+Name of the .cs file being reviewed : Enemy.cs & Enemies.cs
+Author of the .cs file being reviewed : Linda Kohlndorfer
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+			
+	The Enemy object class is really easy to follow and understand. It does everything! Updates the sprites, 
+	collison boxes, and positions of every enemy. As we move further in sprints there should be added collison detection with blocks to change direction 
+	if an enemy collides with a block. The case of the red koopa, when the red koopa is on the edge of a block, should change direction and not fall off like the green koopa.
+	Enemies.cs is really easy to understand as well and would be easy to add a new enemy. I think the only changes to make or consider is the 
+	collision rectangle. When looking at the collision blocks for the koopas for example, the block shown is bigger than the actual koopa.
+	Tighten up collison boxes is only change to really consider. Both classes are great and easy to read and implement! 
+			

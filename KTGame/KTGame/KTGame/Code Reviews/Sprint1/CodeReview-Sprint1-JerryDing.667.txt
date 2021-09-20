@@ -1,0 +1,13 @@
+Author of the code review : Jerry Ding
+Date of the code review : 9/25/18
+Sprint number : 1
+Name of the .cs file being reviewed : PipeBlock.cs
+Author of the .cs file being reviewed : Adam Davis
+Number of minutes taken to complete the review: 15
+Specific comments on code quality : 
+
+	This Class works well with the current pipes on display and it's easy to follow and understand. There are four public functions 
+	with nothing inside showing 0 reference, which are clearly redundant. I deleted them. The reason these functions are there, I assume,
+	is that they are useful in some other concrete block classes and Adam forgot to delete them. Good to see "throw new NotImplementedException();".
+	This is the best way to implement the commands which are not meant for this class. Overall I think the code is of good quality and reusable
+	for future.

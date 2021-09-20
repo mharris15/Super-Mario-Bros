@@ -1,0 +1,15 @@
+﻿Author of the code review : Linda Kohlndorfer
+Date of the code review : 11/12/18
+Sprint number : 4
+Name of the .cs file being reviewed : HUD.cs
+Author of the .cs file being reviewed : Michael Harris
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+
+This is my favotie class in this projec because it's the easiest to understand.
+I appreciated that keeping tracks of lives and coins are in this code. 
+All the methods created in this class are easy to follow and thus easy to implent in other areas of the code.
+Some methods are incredible simple, like ExtraLifa and IncreaseScore. 
+At first they looked too simple to me, almost as if they were unnecessary. But having them this way made it really
+easy to use them in other areas of code, and easy to follow or debug when changes need to be made. Plus the
+methods protect varibles like the number of coins and lives from being drastically changed more than 1 at a time.

@@ -1,0 +1,16 @@
+﻿Author of the code review : Jerry Ding
+Date of the code review : 10/30/18
+Sprint number : 3
+Name of the .cs file being reviewed : MarioWorld, Sprint3.xml
+Author of the .cs file being reviewed : Adam Davis
+Number of minutes taken to complete the review: 5
+Specific comments on code quality :
+
+The code for parallax is quite simple - totoal 5 lines. But it works fine and the background texture is beautiful.
+Parallax texture is drew before the camera draws things. It move a bit slower than the stage, the reason for which
+I don't really know. Overall it's clean and clear.
+
+As for the xml file, the new level design is more complex and better than the one in Sprint2. The file design is 
+very "flat", but readable. I personally like the excel graphical design way, which is more obvious and readable. We
+can maybe refactor it later.
+	

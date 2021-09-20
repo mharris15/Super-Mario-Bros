@@ -1,0 +1,37 @@
+﻿Author of the code review : Jerry Ding
+Date of the code review : 10/16/18
+Sprint number : 2
+Name of the .cs file being reviewed : Item.cs, ItemList.cs, LevelLoader.cs
+Author of the .cs file being reviewed : Josh Lisco, Adam Davis
+Number of minutes taken to complete the review: 20
+Specific comments on code quality :
+Item is an abstract class implementing IEntity. ItemList is a file that contains all kinds of 
+items including mushroom, flower, coin, star and oneup. To be honest I have not been able to understand
+what oneup is since there is 0 comment in these files. Some comments that explains what the classes
+are and what some functions do would be benefiting. The ItemList is easy to follow. However,
+I think there are some problems about inheritance in the Item class. All the private variables
+declared in Item class, showing below, are not supposed to be in the Item class.
+/*
+private int TimeSinceBumped = 0;
+private readonly int MillisecondsPerBumpFrame = 10;
+private readonly int MillisecondsPerCoinFrame = 20;
+private const float CoinBaseConstant = 11.5f;
+private const float CoinYSpeedMultiple = 1 / 1.5f;
+private int BumpCounter = 0;
+private const int BumpCounterLimit = 32;
+private const int CoinCounterLimit = 19;
+*/
+These are all related to specific behaviors of concrete classes of coins. They should be in the 
+Coin class rather than the Item class, same as the CoindJump(GameTime) method.
+
+Then in the LevelLoader, what I noticed first is the MarioWorld in the beginning. It's declared
+as a public variable but only used in LevelLoader. And it's not supposed to be seen from outside. 
+I believe it's just typo and the author forgot to change it when coding. Other than that, the long
+switch statement is not a good thing. It made the LoadWorld method have a cyclomatic complexity as
+high as 58. I think we can replace the long switch statement with child classes and a Dictionary,
+just the same as I did in the controller classes. Besides, there is another warning in LevelLoader
+about the disposal of reader, which is actually in there. Maybe some method in this long LoadWorld
+method causes an exception and this warning. It will be handled before or in the next sprint.
+
+Above are all the problems I noticed. But in general it's good work because the solutionis running
+functionally.

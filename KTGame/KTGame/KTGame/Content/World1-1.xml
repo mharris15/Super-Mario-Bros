@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<level>
+
+  <entity type ="FloorBlock" xpos ="0" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="1" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="2" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="3" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="4" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="5" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="6" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="7" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="8" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="9" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="10" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="11" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="12" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="13" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="14" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="15" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="16" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="17" ypos ="15"/>
+  <entity type ="QBlockMush" xpos ="17" ypos ="10"/>
+
+  <entity type ="FloorBlock" xpos ="18" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="19" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="20" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="21" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="22" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="23" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="24" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="25" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="26" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="27" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="28" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="29" ypos ="15"/>
+  <entity type ="FloorBlock" xpos ="30" ypos ="15"/>
+  <entity type ="Pipe" xpos ="29" ypos ="14" length ="1"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</level>

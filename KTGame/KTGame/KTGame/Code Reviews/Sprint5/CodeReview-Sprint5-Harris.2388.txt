@@ -1,0 +1,15 @@
+﻿Author of the code review : Michael Harris
+Date of the code review : 11/29/18
+Sprint number : 5
+Name of the .cs file being reviewed : Enemy.cs (Bowser and Lakitu enemies)
+Author of the .cs file being reviewed : Linda Kohlndorfer
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+
+	Bowser and Lakitu behavior in game looks like it does what it is supposed to do. Bowser jumps and falls down. We already have 
+	methods for both of these actions called FreeFall and Jump, I see that the Y velocity is different though. Maybe we could add a parameter for
+	these methods to adjust Y velocity and increase the reusability of our code. Instead of hard coding the values. Other than that I see that 
+	the Bowser behvior method does as intended. I see that there is similar code at the end of both Bowser behavior and Lakitu behavior(nextPos,CollisionBox, and Position)
+	I am wondering maybe there could be a method that does these tasks and all the behavior methods just call this method. This might help with readability.
+	Good job on both of these enemy behavior implementations!
+

@@ -1,0 +1,15 @@
+﻿Author of the code review : Michael Harris
+Date of the code review : 11/13/2018
+Sprint number : 4
+Name of the .cs file being reviewed: Enemies.cs and Item.cs 
+Author of the .cs file being reviewed : Linda Kohlndorfer
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+
+	Reviewing the score implementation for both items and enemies, I think that there should be a variable for koopa stomp, etc.
+	This makes the changes to score easier to read and change. Seeing where the score comes from makes snese and is easy to follow. Adding sounds
+	to all enemies and items is similar to the implementation of the score counter. If enemy is stomped make stomped sound. Overall,
+	adding sounds and score counter, although it adds lines to the code, does not really increase the complexity of the classes for both 
+	enemies and items. Well done and good implementation! 
+			
+	

@@ -1,0 +1,12 @@
+﻿Author of the code review : Michael Harris
+Date of the code review : 9/25/18
+Sprint number : 1
+Name of the .cs file being reviewed : EnemyFactory.cs
+Author of the .cs file being reviewed : Linda Kohlndorfer
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+			
+	This code short, sweet and easy to follow. It follows a similar pattern as the BlockFactory that I implimented which makes our code 
+	very maintainable. It might be confusing why numbers like 6 or 7 were used for certain sprites. Overall, this class is very easy to read, follow,
+	and implement if I needed to add a new enemy sprite like a paratroopa or a red goomba. 
+			

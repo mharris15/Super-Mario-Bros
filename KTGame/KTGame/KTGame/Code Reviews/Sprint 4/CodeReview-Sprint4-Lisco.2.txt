@@ -1,0 +1,18 @@
+﻿Author of the code review : Josh Lisco
+Date of the code review : 
+Sprint number : 4
+Name of the .cs file being reviewed : MarioWorld.cs and HUD.cs
+Author of the .cs file being reviewed :  Jerry Ding
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+
+I think the code here pertaining to the Winning Hud works fine. When the hud hits zero, hurting mario repeatedly...works, I suppose. I think I'd rather
+we make a method to kill mario immediately, as opposed to just hurting him until he dies, but it works well enough as is.
+
+I see you're deleting a lot of commands when the game ends - I guess since they're being initialized again when the game starts back up, that's easier 
+than adding conditions to the commands, so it works as a solution.
+
+I really like the way you clear the time and add it to the score after winning. Looks just like how I remember it. Works great, too. 
+I know there was a bug where this was also killing mario after winning, but it seems you've sorted that out. Good work!
+
+All in all, solid job all around. I don't really see much that needs changing, outside of the mario damage thing. Nice!

@@ -1,0 +1,180 @@
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\death.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\death.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-overworld.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-overworld.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-starman.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-starman.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-underworld.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-underworld.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\overworld.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\overworld.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_1-up.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_bowserfalls.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_bowserfire.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_breakblock.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_bump.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_coin.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_fireball.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_flagpole.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_gameover.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_jump-small.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_jump-super.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_kick.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_mariodie.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_pause (1).xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_pause.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_pipe.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_powerup.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_powerup_appears.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_stage_clear.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_stomp.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_vine.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_warning.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_world_clear.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\starman.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\starman.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\underworld.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\underworld.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\victory.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\victory.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\yousayrun.wma
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\yousayrun.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\AllEnemies-2.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\AllEnemies.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\AllItems.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\BlockSpriteSheet3.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\enemies.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\items.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sprites-Mario-2.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sprites-Mario-3.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sprites-Mario.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sunlight.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\BlockSprites\BrickBlock.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Background-Default.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\BlockSpriteSheet.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\BlockSpriteSheet2.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Coin.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\CoinSprite.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Mario.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\MiniCoin.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\parallaxBackground.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\QuestionBlock.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprite_Mario.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\StructuresSprite.xnb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\KTGame.exe
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\KTGame.pdb
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\obj\x86\Debug\KTGame.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\obj\x86\Debug\KTGame.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\obj\x86\Debug\KTGame.csproj.CopyComplete
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\obj\x86\Debug\KTGame.exe
+C:\Users\micha\Source\Repos\KomputaTroopas\KTGame\KTGame\obj\x86\Debug\KTGame.pdb
+C:\Users\micha\source\repos\KomputaTroopas\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Projectiles.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\death.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\death.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-overworld.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-overworld.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-starman.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-starman.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-underworld.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\hurry-underworld.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\overworld.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\overworld.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_1-up.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_bowserfalls.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_bowserfire.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_breakblock.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_bump.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_coin.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_fireball.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_flagpole.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_gameover.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_jump-small.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_jump-super.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_kick.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_mariodie.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_pause (1).xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_pause.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_pipe.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_powerup.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_powerup_appears.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_stage_clear.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_stomp.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_vine.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_warning.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\smb_world_clear.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\starman.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\starman.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\underworld.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\underworld.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\victory.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\victory.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\yousayrun.wma
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sounds\yousayrun.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\AllEnemies-2.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\AllEnemies.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\AllItems.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\BlockSpriteSheet3.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\enemies.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\items.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Projectiles.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sprites-Mario-2.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sprites-Mario-3.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sprites-Mario.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprites\Sunlight.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\BlockSprites\BrickBlock.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Background-Default.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\BlockSpriteSheet.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\BlockSpriteSheet2.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Coin.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\CoinSprite.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Mario.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\MiniCoin.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\parallaxBackground.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\QuestionBlock.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\Sprite_Mario.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\Content\StructuresSprite.xnb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\KTGame.exe
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\KTGame.pdb
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\obj\x86\Debug\KTGame.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\obj\x86\Debug\KTGame.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\obj\x86\Debug\KTGame.csproj.CopyComplete
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\obj\x86\Debug\KTGame.exe
+C:\Users\micha\Desktop\KTGame (2)\KTGame\KTGame\obj\x86\Debug\KTGame.pdb

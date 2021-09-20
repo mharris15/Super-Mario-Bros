@@ -1,0 +1,17 @@
+﻿Author of the code review : Linda Kohlndorfer
+Date of the code review : 9/25/18
+Sprint number : 1
+Name of the .cs file being reviewed : Mario.cs
+Author of the .cs file being reviewed : Josh Lisco
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+			
+This code is really easy to follow and understand, which I appreciate. 
+Right now, the vertical offset for the sprite batch is used repeatedly, and the x values were maunally entered for each new animation.
+For this sprint, and probably the rest of the sprints through 4, it'll work perfectly.
+However, if we ever want to add another sprite, or change the sprite sheet we use, we would have to go through trial and error to find the new animations.
+
+It was a smart idea to make the direction a boolean instead of having entirely different states of "left idle" or "right idle" or anything like that.
+The way its implimented, it still returns the same type of sprite in the state you want, just the sprite coordinates passed into it are changed.
+This makes all of the possible states very clear, they are easy to change, and the code is easy to debug.
+

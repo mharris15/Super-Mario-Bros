@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<level>
+  <entity type ="FloorBlock" xpos ="0" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="32" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="64" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="96" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="128" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="160" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="192" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="224" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="256" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="288" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="320" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="352" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="384" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="416" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="448" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="480" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="512" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="544" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="576" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="608" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="640" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="672" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="704" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="736" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="768" ypos ="480"/>
+  <entity type ="FloorBlock" xpos ="200" ypos ="200"/>
+  <entity type ="Goomba" xpos ="550" ypos ="325"/>
+  <entity type ="RKoopa" xpos ="750" ypos ="325"/>
+  <entity type ="GKoopa" xpos ="650" ypos ="325"/>
+  <entity type ="BrickBlock" xpos ="400" ypos ="150"/>
+  <entity type ="FloorBlock" xpos ="500" ypos ="350"/>
+  <entity type ="UsedBlock" xpos ="200" ypos ="150"/>
+  <entity type ="StairBlock" xpos ="100" ypos ="150"/>
+  <entity type ="BrickCoin" xpos ="450" ypos ="150" coins ="10"/>
+  <entity type ="QBlockFlower" xpos ="300" ypos ="150"/>
+  <entity type ="QBlockFlower" xpos ="600" ypos ="150"/>
+  <entity type ="QBlockMush" xpos ="632" ypos ="150"/>
+  <entity type ="QBlockCoin" xpos ="664" ypos ="150" coin ="1"/>
+  <entity type ="QBlockMush" xpos ="696" ypos ="150"/>
+  <entity type ="HiddenMush" xpos ="0" ypos ="150"/>
+</level>

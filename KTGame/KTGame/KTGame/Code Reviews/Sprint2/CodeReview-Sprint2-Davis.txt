@@ -1,0 +1,15 @@
+﻿Author of the code review : Adam Davis
+Date of the code review : 10/16/18
+Sprint number : 2
+Name of the .cs file being reviewed : Josh Lisco
+Author of the .cs file being reviewed : CollisionTracking
+Number of minutes taken to complete the review: 15
+Specific comments on code quality :
+	The first thing I notice was that there's alot going on inside this class making it hard to follow what
+	exactly is happening. The program seems to only check for collisions as Block and as Mario and then from there
+	deals with the response of item and enemy. This seems like a good way to cut down on the number of checks needed
+	but would also prevent enemies from bumping into each other in the future sprints. This could also be a promblem for
+	items but i'm not sure how they interact in the game. The next thing I noticed is that ToggleCollisionBox method
+	works great when all entities are not moving but falls apart once mario moves. There is also uneeded else statments
+	at the end of some methods that don't do anything. Overall I think this is a good start for our game collider but still 
+	needs work.

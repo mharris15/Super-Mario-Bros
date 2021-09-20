@@ -1,0 +1,18 @@
+﻿Author of the code review : Josh Lisco
+Date of the code review : 11/29/18
+Sprint number : 5
+Name of the .cs file being reviewed : Enemy.cs
+Author of the .cs file being reviewed :  Linda Kohlndorfer + Michael Harris
+Number of minutes taken to complete the review: 10
+Specific comments on code quality :
+
+I think the code here to implement the various enemy behaviors works quite well. Obviously, with enemies like Bowser, Lakitu, and Hammerbros,
+they had to implement their own behaviors rather than extending the behaviors shared by goombas/koopas.
+THe biggest issue I see is the number of times we check which enemy 'this' is in enemy.cs, rather than overriding methods with custom behaviors in the 
+individual enemy classes. However, given poor design choices made in prior sprints and a like of time to refactor, I think the choice to do things this way is
+reasonable. There simply wasn't enough time to fix it.
+
+In the future, when custom classes extend abstract ones, more care should be given to keep the code clean and seperated. At this point, the use of custom classes 
+honestly wasn't particularly effective. Regardless, this doesn't fall solely on the team members that implemented these new enemies by any means.
+
+

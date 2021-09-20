@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprite_Mario.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Background-Default.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/Sprites-Mario.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/QuestionBlock.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/enemies.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/items.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/BlockSprites/BrickBlock.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/BlockSpriteSheet.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/StructuresSprite.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/AllEnemies.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/AllItems.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/Sprites-Mario-2.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/Sunlight.JPG</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/Sprites-Mario-3.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/parallaxBackground.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/yousayrun.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_1-up.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_bowserfalls.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_bowserfire.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_breakblock.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_bump.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_coin.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_fireball.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_flagpole.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_gameover.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_jump-small.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_jump-super.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_kick.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_mariodie.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_pause (1).wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_pause.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_pipe.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_powerup.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_powerup_appears.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_stage_clear.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_stomp.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_vine.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_warning.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/smb_world_clear.wav</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/GameFont.spritefont</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/CoinSprite.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/MiniCoin.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Mario.gif</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Coin.gif</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/death.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/overworld.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/starman.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/underworld.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/victory.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/BlockSpriteSheet2.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/AllEnemies-2.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/BlockSpriteSheet3.png</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/hurry-overworld.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/hurry-starman.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sounds/hurry-underworld.mp3</File>
+    <File>C:/Users/micha/Desktop/KTGame (2)/KTGame/KTGame/Content/Sprites/Projectiles.png</File>
+  </SourceFiles>
+</SourceFileCollection>

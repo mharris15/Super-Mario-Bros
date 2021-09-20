@@ -1,0 +1,15 @@
+﻿Author of the code review : Michael Harris
+Date of the code review : 11/29/18
+Sprint number : 5
+Name of the .cs file being reviewed : Camera.cs and Sprint5.xml
+Author of the .cs file being reviewed : Jerry Ding
+Number of minutes taken to complete the review: 1
+Specific comments on code quality :
+
+			The code in Camera class is simple and clean. Although it feels like not right to modify 
+			Camera.Position method in such a way, it works quite effiecient. Only thing I felt not proper
+			is the number for X position. It is not reusable if any change happens to the game map.
+			The xml file is as flat as it always was. It is hard for rest of us to modify the xml file to
+			change the position of anything or add or delete anything. But it works for Adam because he 
+			is farmiliar with the file format and knows how to layout the map perfectly like the YOU WIN 
+			coins in the boss room. 
